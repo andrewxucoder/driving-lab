@@ -1,0 +1,15 @@
+# Centralized dataset path configuration
+raw_dir: ./data/raw
+processed_dir: ./data/processed
+
+multimodal_repr:
+  training_set: null
+  validation_set: null
+
+scene_forecast:
+  bev_frames: null
+  trajectory_labels: null
+
+cockpit_assistant:
+  dialog_corpus: null
+
